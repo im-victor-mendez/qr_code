@@ -1,3 +1,4 @@
+import './QR.scss'
 import React from 'react'
 
 function QR({ img, title, description }) {

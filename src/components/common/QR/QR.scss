@@ -1,0 +1,27 @@
+.qr {
+    background-color: var(--white);
+
+    width: 22rem;
+    padding: 1rem;
+    border-radius: 1rem;
+
+    img {
+        width: 100%;
+        border-radius: 1rem;
+    }
+
+    .qr-text {
+        text-align: center;
+
+        font-family: var(--font-family);
+
+        h1 {
+            font-weight: 700;
+        }
+
+        p {
+            font-weight: 400;
+            color: var(--grayish-blue);
+        }
+    }
+}
