@@ -1,4 +1,7 @@
 import './App.css'
+import './style/colors.scss'
+import './style/fonts.scss'
+
 import QR from './components/common/QR/QR'
 import qrImg from './assets/images/image-qr-code.png'
 
