@@ -1,8 +1,13 @@
 import React from 'react'
 
-function QR() {
+function QR({ img, title, description }) {
   return <section className='qr'>
-    
+    <img src={img} alt="" />
+
+    <div className='qr-text'>
+        <h1>{title}</h1>
+        <p>{description}</p>
+    </div>
   </section>
 }
 
