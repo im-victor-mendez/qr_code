@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/im-victor-mendez/React-QR_Code_Component)
-- Live Site URL: [Netlify](https://flourishing-fairy-717c0d.netlify.app/)
+- Solution URL: [GitHub](https://github.com/im-victor-mendez/qr_code)
+- Live Site URL: [Netlify](https://qr-code-im-victor-mendez.netlify.app/)
 
 ## My process
 
